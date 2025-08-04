@@ -1,4 +1,4 @@
-# Muse Choice
+# Muse Choose
 
 Guidance for choosing music notation software
 
