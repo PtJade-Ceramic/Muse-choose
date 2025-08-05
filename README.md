@@ -27,7 +27,7 @@ Musicians from beginners to experts create and adapt music with the assistance o
 
 ## Scope
 
-This repository offers guidance on choosing music notation software.
+This repository offers guidance for choosing music notation software.
 
 It intentionally excludes introductions to music sequencing and digital audio workstation software.
 
