@@ -6,7 +6,10 @@ Guidance for choosing music notation software
 
 ## Foreword
 
-[MuseScore Notation Communication Group](https://musescore.org/node/295275) (`MSQQG`), the most active online community for musicians in China, focuses on discussing the use of MuseScore Studio and related music software and hardware and sharing music knowledge.
+[MuseScore Notation Communication Group](https://musescore.org/node/295275) (`MSQQG`), the most active online community for musicians in China, focuses on:
+
+- Discussing the use of MuseScore Studio and related music software and hardware, and
+- Sharing music knowledge.
 
 This document was drafted in accordance with the rules simplified from [ISO/IEC Directives, Part 2](https://www.iso.org/directives).
 
@@ -16,9 +19,9 @@ This repository is subject to [MIT License](/LICENSE). Attention is drawn to the
 
 ## Introduction
 
-Musicians from beginners to experts create and adapt music with the assistance of computers. Beginners may struggle to identify suitable software and understand concepts like notation, engraving, playback, and music sequencing.
+Musicians from beginners to experts create and adapt music with the assistance of computers. Beginners may struggle to identify suitable software and understand concepts such as notation, engraving, playback, and music sequencing.
 
-[@NijineChakiri](https://github.com/NijineChakiri) posted a selection guidance for choosing music notation software as an image in [MSQQG](https://musescore.org/node/295275) on 2023-11-21. Widely praised and shared among users, that resource was revised by the group owner into a PDF named "Recommendation for Numbered Music Notation Software" and added to the Group Files on 2025-08-04.
+[@NijineChakiri](https://github.com/NijineChakiri) posted guidance for choosing music notation software as an image in [MSQQG](https://musescore.org/node/295275) on 2023-11-21. Widely praised and shared among users, that resource was revised by the group owner into a PDF named "Recommendation for Numbered Music Notation Software" and added to the Group Files on 2025-08-04.
 
 ---
 
@@ -51,5 +54,15 @@ For the purposes of this document, the terms and definitions given in [MuseScore
 
 - [ISO Online browsing platform](https://www.iso.org/obp)
 - [IEC Electropedia](https://www.electropedia.org)
+
+---
+
+## Principles for drafting of the guidance
+
+To ensure that the guidance is visually accessible, the developers shall:
+
+1. Present all links as plain text rather than attached to other text with the Markdown syntax `[text](url)`.
+2. Accompany each link with a corresponding QR code.
+3. Limit each paragraph to at most one link to avoid confusion with the relationship of the link with its corresponding QR code.
 
 ---
