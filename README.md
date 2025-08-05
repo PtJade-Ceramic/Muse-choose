@@ -6,7 +6,7 @@ Guidance for choosing music notation software
 
 ## Foreword
 
-[MuseScore Notation Communication Group](https://musescore.org/node/295275) (`MSQQG`), China's most active online community for musicians, focuses on discussing MuseScore Studio usage and sharing music knowledge, software, and hardware.
+[MuseScore Notation Communication Group](https://musescore.org/node/295275) (`MSQQG`), the most active online community for musicians in China, focuses on discussing the use of MuseScore Studio and related music software and hardware and sharing music knowledge.
 
 This document was drafted in accordance with the rules simplified from [ISO/IEC Directives, Part 2](https://www.iso.org/directives).
 
